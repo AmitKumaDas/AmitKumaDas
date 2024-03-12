@@ -1,5 +1,5 @@
-- ## 👋 **Hi, I’m AmitKumaDas**
-- ### 👀 Passionate About Cloud & DevOps
+- ## 👋 **Hi, I’m Amit Kumar Das**
+- ### 👀 Passionate About Cloud
 - 🌱 I’m currently learning Cloud and Devops
 - 📫 How to reach me Email id- 
    
