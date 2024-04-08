@@ -2,6 +2,8 @@
 - ### 👀 Passionate About Cloud
 - 🌱 I’m currently learning Cloud and Devops
 - 📫 How to reach me Email id- [amitdas@outlook.in](amitdas@outlook.in)
+- #### -:Certification:-
+  Microsoft Certified: Azure Administrator Associate
    
 <!---
 AmitKumaDas/AmitKumaDas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
