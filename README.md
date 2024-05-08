@@ -1,5 +1,5 @@
 - ## 👋 **Hi, I’m Amit Kumar Das**
-- ### 👀 Passionate About Cloud
+- ### 👀 Passionate About Cloud and DevOps
 - 🌱 I’m currently learning Cloud and Devops
 - 📫 How to reach me Email id- [amitdas@outlook.in](amitdas@outlook.in)
 - #### -:Certification:-
@@ -7,7 +7,6 @@
   #### Microsoft Certified: Azure Administrator Associate
   ##### Credential ID: C112D5851C9F76C7
   ##### Certification number: 709984-2AQE53
-  Earned on: April 6, 2024
 
   Expires on: April 7, 2025
 
